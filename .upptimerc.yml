@@ -11,6 +11,8 @@ sites:
     url: https://chat.orangemn6.xyz
   - name: OS in Browser
     url: https://genow.cf
+  - name: Ryans porxy
+    url: https://ryanlovesschool.gq
 
 status-website:
   # Add your custom domains names, or remove the `cname` line if you don't have a domain
@@ -33,10 +35,10 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 
 workflowSchedule:
-  graphs: "0 0 * * *"
+  graphs: "*/5 * * * *"
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
+  summary: "*/5 * * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
