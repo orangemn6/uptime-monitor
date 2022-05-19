@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 860,
-    "timeWeek": 860,
-    "timeMonth": 860,
-    "timeYear": 860,
+    "time": 759,
+    "timeDay": 759,
+    "timeWeek": 759,
+    "timeMonth": 759,
+    "timeYear": 759,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 784,
-    "timeWeek": 784,
-    "timeMonth": 784,
-    "timeYear": 784,
+    "time": 732,
+    "timeDay": 732,
+    "timeWeek": 732,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 685,
-    "timeWeek": 685,
-    "timeMonth": 685,
-    "timeYear": 685,
+    "time": 629,
+    "timeDay": 629,
+    "timeWeek": 629,
+    "timeMonth": 629,
+    "timeYear": 629,
     "dailyMinutesDown": {}
   },
   {
@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/genow.cf",
     "slug": "os-in-browser",
     "status": "up",
-    "uptime": "72.33%",
-    "uptimeDay": "72.33%",
-    "uptimeWeek": "72.33%",
-    "uptimeMonth": "72.33%",
-    "uptimeYear": "72.33%",
+    "uptime": "78.38%",
+    "uptimeDay": "78.38%",
+    "uptimeWeek": "78.38%",
+    "uptimeMonth": "78.38%",
+    "uptimeYear": "78.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -71,6 +71,26 @@
     "timeYear": 0,
     "dailyMinutesDown": {
       "2022-05-19": 111
+    }
+  },
+  {
+    "name": "Ryans porxy",
+    "url": "https://ryanlovesschool.gq",
+    "icon": "https://favicons.githubusercontent.com/ryanlovesschool.gq",
+    "slug": "ryans-porxy",
+    "status": "down",
+    "uptime": "54.30%",
+    "uptimeDay": "54.30%",
+    "uptimeWeek": "54.30%",
+    "uptimeMonth": "54.30%",
+    "uptimeYear": "54.30%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-05-19": 0
     }
   }
 ]
