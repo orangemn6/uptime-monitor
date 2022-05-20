@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/chat.orangemn6.xyz",
     "slug": "orange-chat",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.23%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 1452,
     "timeDay": 4886,
     "timeWeek": 1452,
     "timeMonth": 1452,
     "timeYear": 1452,
     "dailyMinutesDown": {
-      "2022-05-20": 3
+      "2022-05-20": 17
     }
   },
   {
@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/genow.cf",
     "slug": "os-in-browser",
     "status": "up",
-    "uptime": "60.96%",
+    "uptime": "61.20%",
     "uptimeDay": "49.79%",
-    "uptimeWeek": "60.96%",
-    "uptimeMonth": "60.96%",
-    "uptimeYear": "60.96%",
+    "uptimeWeek": "61.20%",
+    "uptimeMonth": "61.20%",
+    "uptimeYear": "61.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -82,18 +82,18 @@
     "icon": "https://favicons.githubusercontent.com/ryanlovesschool.gq",
     "slug": "ryans-porxy",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.01%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 2450,
     "timeDay": 4269,
     "timeWeek": 2450,
     "timeMonth": 2450,
     "timeYear": 2450,
     "dailyMinutesDown": {
-      "2022-05-20": 3
+      "2022-05-20": 16
     }
   }
 ]
